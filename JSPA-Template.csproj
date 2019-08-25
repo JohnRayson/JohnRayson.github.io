@@ -23,7 +23,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
-    <TypeScriptToolsVersion>2.8</TypeScriptToolsVersion>
+    <TypeScriptToolsVersion>3.1</TypeScriptToolsVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -186,6 +186,7 @@
     <Content Include="scss\bootstrap\_type.scss" />
     <Content Include="scss\bootstrap\_utilities.scss" />
     <Content Include="scss\bootstrap\_variables.scss" />
+    <Content Include="serviceworker.js" />
     <Content Include="tsconfig.json" />
     <Content Include="scss\fontawesome\fa-brands.scss" />
     <Content Include="scss\fontawesome\fa-regular.scss" />

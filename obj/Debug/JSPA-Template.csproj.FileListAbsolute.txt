@@ -1,0 +1,14 @@
+D:\Development\JSPA-Template\JSPA-Template\bin\JSPA-Template.dll.config
+D:\Development\JSPA-Template\JSPA-Template\bin\JSPA-Template.dll
+D:\Development\JSPA-Template\JSPA-Template\bin\JSPA-Template.pdb
+D:\Development\JSPA-Template\JSPA-Template\obj\Debug\JSPA-Template.csprojResolveAssemblyReference.cache
+D:\Development\JSPA-Template\JSPA-Template\obj\Debug\JSPA-Template.csproj.CoreCompileInputs.cache
+D:\Development\JSPA-Template\JSPA-Template\obj\Debug\JSPA-Template.dll
+D:\Development\JSPA-Template\JSPA-Template\obj\Debug\JSPA-Template.pdb
+D:\Development\GitHub\JSPA\JSPA-Template\bin\JSPA-Template.dll.config
+D:\Development\GitHub\JSPA\JSPA-Template\bin\JSPA-Template.dll
+D:\Development\GitHub\JSPA\JSPA-Template\bin\JSPA-Template.pdb
+D:\Development\GitHub\JSPA\JSPA-Template\obj\Debug\JSPA-Template.csproj.CoreCompileInputs.cache
+D:\Development\GitHub\JSPA\JSPA-Template\obj\Debug\JSPA-Template.dll
+D:\Development\GitHub\JSPA\JSPA-Template\obj\Debug\JSPA-Template.pdb
+D:\Development\GitHub\JSPA\JSPA-Template\obj\Debug\JSPA-Template.csprojAssemblyReference.cache
